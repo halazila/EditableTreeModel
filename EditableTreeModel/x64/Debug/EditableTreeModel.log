@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/6/18 18:59:41。
+     1>项目“C:\WorkStation\VSWorkSpace\Projects\EditableTreeModel\EditableTreeModel\EditableTreeModel.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtRccSetDependencies:
+         "C:\Qt\Qt5.8.0\5.8\msvc2013_64\bin\rcc.exe" --list "editabletreemodel.qrc" > "x64\Debug\rcc_list.txt" 2> nul
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\WorkStation\VSWorkSpace\Projects\EditableTreeModel\EditableTreeModel\x64\Debug\\EditableTreeModel.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.8.0\5.8\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\WorkStation\VSWorkSpace\Projects\EditableTreeModel\EditableTreeModel\x64\Debug\EditableTreeModel.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\WorkStation\VSWorkSpace\Projects\EditableTreeModel\EditableTreeModel\x64\Debug\EditableTreeModel.lib" /MACHINE:X64 x64\Debug\mainwindow.obj
+         x64\Debug\main.obj
+         x64\Debug\treeitem.obj
+         x64\Debug\treemodel.obj
+         x64\Debug\qrc_editabletreemodel.obj
+         x64\Debug\moc_mainwindow.obj
+         x64\Debug\moc_treemodel.obj
+         EditableTreeModel.vcxproj -> C:\WorkStation\VSWorkSpace\Projects\EditableTreeModel\EditableTreeModel\x64\Debug\EditableTreeModel.exe
+     1>已完成生成项目“C:\WorkStation\VSWorkSpace\Projects\EditableTreeModel\EditableTreeModel\EditableTreeModel.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.93

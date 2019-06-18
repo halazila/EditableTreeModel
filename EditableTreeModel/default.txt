@@ -1,0 +1,7 @@
+Beijing
+	Beijing Teacher NanjingRoad 14 Female
+	Beijing Student CHuanshaRoad 18 Male
+Shanghai
+	Worker
+		Shanghai Worker HuanYiRoad 23 Male
+		Shanghai Worker HuanSanRoad 43 Female
