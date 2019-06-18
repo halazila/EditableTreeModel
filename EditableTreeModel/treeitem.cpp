@@ -130,7 +130,7 @@ bool TreeItem::operator<(const TreeItem& other) const
 	sortColumn = model->sortColumnNum(); // 暂时这样处理
 	if (sortColumn < 0) sortColumn = 0;
 	const QVariant v1 = data(sortColumn);
-	const QVariant v2 = data(sortColumn);
+	const QVariant v2 = other.data(sortColumn);
 	return isVariantLessThen(v1, v2);
 }
 
